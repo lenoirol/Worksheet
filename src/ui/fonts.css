@@ -1,0 +1,7 @@
+/* SF Pro, subset to Latin + arrows (src/assets/fonts). Text cuts for the interface, Display cuts for large titles. */
+@font-face { font-family: 'SF Pro Text'; font-weight: 400; font-style: normal; font-display: swap; src: url('../assets/fonts/sf-pro-text-regular.woff2') format('woff2'); }
+@font-face { font-family: 'SF Pro Text'; font-weight: 500; font-style: normal; font-display: swap; src: url('../assets/fonts/sf-pro-text-medium.woff2') format('woff2'); }
+@font-face { font-family: 'SF Pro Text'; font-weight: 600; font-style: normal; font-display: swap; src: url('../assets/fonts/sf-pro-text-semibold.woff2') format('woff2'); }
+@font-face { font-family: 'SF Pro Text'; font-weight: 700; font-style: normal; font-display: swap; src: url('../assets/fonts/sf-pro-text-bold.woff2') format('woff2'); }
+@font-face { font-family: 'SF Pro Display'; font-weight: 600; font-style: normal; font-display: swap; src: url('../assets/fonts/sf-pro-display-semibold.woff2') format('woff2'); }
+@font-face { font-family: 'SF Pro Display'; font-weight: 700; font-style: normal; font-display: swap; src: url('../assets/fonts/sf-pro-display-bold.woff2') format('woff2'); }
